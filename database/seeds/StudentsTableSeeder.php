@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Seeder;
 use Faker\Factory as faker;
+use Illuminate\Support\Facades\DB;
 
 class StudentsTableSeeder extends Seeder
 {
